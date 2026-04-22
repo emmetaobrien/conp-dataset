@@ -639,5 +639,5 @@
 	branch = main
 [submodule "projects/A_steady_state_visual_evoked_potential__SSVEP__based_BCI_dataset_in_children_and_adolescents"]
 	path = projects/A_steady_state_visual_evoked_potential__SSVEP__based_BCI_dataset_in_children_and_adolescents
-	url = ./projects/A_steady_state_visual_evoked_potential__SSVEP__based_BCI_dataset_in_children_and_adolescents
+	url = https://github.com/kongtiaowang/conp-dataset-A-steady-state-visual-evoked-potential-SSVEP-based-BCI-dataset-in-children-and-adoles.git
 	datalad-id = 98b915ec-f2f9-4429-9c4d-9f7ddfc582ce
