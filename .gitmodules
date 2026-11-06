@@ -515,9 +515,6 @@
 [submodule "projects/Participant_level_contrast_maps"]
 	path = projects/Participant_level_contrast_maps
 	url = https://github.com/conp-bot/conp-dataset-Participant_level_contrast_maps.git
-[submodule "projects/conp-dataset-Expression-based_polygenic_score_from_the_amygdala_5HTT_gene_network"]
-	path = projects/conp-dataset-Expression-based_polygenic_score_from_the_amygdala_5HTT_gene_network
-	url = https://github.com/conp-bot/conp-dataset-Expression-based_polygenic_score_from_the_amygdala_5HTT_gene_networ.git
 [submodule "projects/braincode_EpLink"]
 	path = projects/braincode_EpLink
 	url = https://github.com/conpdatasets/braincode_EpLink
